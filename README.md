@@ -9,6 +9,7 @@
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
 - [Analysis Insights](#analysis-insights)
+- [Documentation](#documentation)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -78,6 +79,10 @@ An interactive dashboard was created in Excel to provide a quick summary of all 
 
 7. Daytime Effects:
    - The majority of accidents occurred during daylight hours.
+
+### Documentation
+
+Check out the uploaded PDF for a visual representation of my project: [Download PDF](abc)
 
 ### Limitations
 
