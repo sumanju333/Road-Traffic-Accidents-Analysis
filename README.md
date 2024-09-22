@@ -82,7 +82,7 @@ An interactive dashboard was created in Excel to provide a quick summary of all 
 
 ### Documentation
 
-Check out the uploaded PDF for a visual representation of my project: [Download PDF](https://github.com/sumanju333/Road-Traffic-Accidents-Analysis/blob/main/Road%20Traffic%20Analysis.pdf)
+Check out the uploaded PDF for a visual representation of my project: [Check Out the PDF](https://github.com/sumanju333/Road-Traffic-Accidents-Analysis/blob/main/Road%20Traffic%20Analysis.pdf)
 
 ### Limitations
 
